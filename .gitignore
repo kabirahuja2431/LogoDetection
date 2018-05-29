@@ -1,0 +1,6 @@
+*.pickle
+*.ipynb
+*.jpg
+*.txt
+*.ckpt
+*.pyc
